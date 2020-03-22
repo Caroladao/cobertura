@@ -1,0 +1,23 @@
+{
+  "name": "cobertura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caroladao/cobertura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caroladao/cobertura/issues"
+  },
+  "homepage": "https://github.com/Caroladao/cobertura#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
